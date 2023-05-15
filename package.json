@@ -37,7 +37,10 @@
         "prettier": "^2.8.8",
         "vue-cli-plugin-mdb": "~2.1.0",
         "vue-cli-plugin-mdb5": "~2.1.0",
-        "vue-template-compiler": "^2.6.14"
+        "vue-template-compiler": "^2.6.14",
+        "eslint": "^7.10.0",
+        "eslint-config-prettier": "^8.3.0",
+        "eslint-plugin-prettier": "^3.4.0"
     },
     "eslintConfig": {
         "root": true,
